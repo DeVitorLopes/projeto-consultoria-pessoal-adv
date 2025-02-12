@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.topo{
+    position: static;
+    background-color: white;
+    position: relative;
+}
+
+.logo{
+    width: 100px;
+    padding-left: 50px;
+}
+
+h1{
+    text-align:center;
+    font-size: 20px;  
+    padding-right: 1000px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    font-weight: 700;
+}
+
+header{
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+a{
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 25px 25px 25px 0px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0px 5px;
+}
+
+.negrito{
+    font-weight: 800;
+}
+
+.first-img{
+    background-image: url(img/capa.jpg);
+    min-height: 500px;
+    min-width: 100px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1900px;   
+}
+
+.title-img-position{
+    text-align: right;
+    padding-right: 400px;
+    padding-top: 30px;
+}
+
+h2{
+    padding-bottom: 5px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.sub-title-topo{
+    font-size: 23px;
+}
+
+.img-sobre{
+    width: 250px;
+    padding-bottom: 10px;
+}
+
+.largura-divs{
+    text-align: left;
+    padding: 20px 0px;
+    margin: 0px 550px;
+}
+
+.sobre-nos{
+    padding: 10px 0px;
+}
+
+.p-sobre{
+    padding: 10px 0px;
+}
+
+.p-sobre2{
+    padding-left: 5px;
+    border-left: 3px solid gray;
+    font-style: italic;
+}
+
+.secao-atuacao, .contato{
+    background-image: url("img/fundo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 200px;
+    text-align: center;
+}
+
+.title-atuacao-position, .title-contato-position{
+        padding-top: 70px;
+}
+.title-atuacao, .title-contato{
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    padding: 5px 0px;
+    color: black;
+    font-size: 20px;
+    margin: 0px 850px;
+    border-radius: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.area-atuacao{
+    text-align: left;
+    padding: 50px 0px 50px 0px;
+}
+
+dt{
+    padding: 10px 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+dd{
+    padding: 0px 0px 10px 40px;
+}
+
+li{
+    padding: 5px 0px 0px 10px;
+}
+
+
+.txt-contato{
+    padding: 10px;
+}
+
+.title2-contato{
+    padding-bottom: 10px;
+    margin: 0px;
+    text-align: left;
+}
+
+.txt-contato{
+    padding: 50px 0px 10px 0px;
+}
+.ul-contate{
+    padding-left: 30px;
+}
+
+li{
+    padding: 5px;
+}
+
+.negrito-contate{
+    font-weight: bold;
+}
