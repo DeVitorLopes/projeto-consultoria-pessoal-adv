@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Fredoka', sans-serif;
     scroll-behavior: smooth;
+    size: relative;
 }
 
 .topo{
